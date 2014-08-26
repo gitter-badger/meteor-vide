@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Easy as hell jQuery plugin for video backgrounds',
-  name: 'zimme'
+  name: 'zimme',
   git: 'https://github.com/zimme/meteor-vide.git',
   version: '0.0.1'
 });
