@@ -1,9 +1,0 @@
-{
-  "name": "vide",
-  "description": "Easy as hell jQuery plugin for video backgrounds",
-  "homepage": "https://github.com/zimme/meteor-vide",
-  "author": "zimme",
-  "version": "0.0.1",
-  "git": "https://github.com/zimme/meteor-vide.git",
-  "packages": {}
-}
