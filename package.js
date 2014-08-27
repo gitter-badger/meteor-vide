@@ -5,10 +5,10 @@ Package.describe({
   version: '0.0.3'
 });
 
-Package.on_use(function (api, where) {
-  api.versionsFrom('METEOR@0.9.0');
+Package.onUse(function (api, where) {
+  api.versionsFrom('0.9.0');
 
   api.use('jquery', 'client');
 
-  api.add_files('Vide/dist/jquery.vide.js', 'client');
+  api.addFiles('Vide/dist/jquery.vide.js', 'client');
 });
