@@ -5,7 +5,7 @@ Package.describe({
   version: '0.0.4'
 });
 
-Package.onUse(function (api, where) {
+Package.onUse(function (api) {
   api.versionsFrom('0.9.0');
 
   api.use('jquery', 'client');
