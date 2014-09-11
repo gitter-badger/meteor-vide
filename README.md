@@ -5,13 +5,13 @@
 ## Usage
 
 ```js
-Template.randomTemplate.rendered = function() {
-    $('#randomElementName').vide('randomVideoWithoutExtension', {
-        ...Random Vide options...
+Template.templateName.rendered = function() {
+    $('#elementName').vide('fileNameWithoutExtension', {
+        ...Vide options...
     });
 }
 ```
 
 ## Caveats
 
-Can't currently use Vide's auto-detection feature using ```data-``` attributes.
+Can't currently use Vide's auto-detection feature using `data-` attributes.
