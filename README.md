@@ -1,4 +1,5 @@
 # Vide
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/zimme/meteor-vide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [Vide](https://github.com/VodkaBears/Vide) wrapped for meteor.
 
